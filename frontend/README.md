@@ -30,7 +30,7 @@ The Supply Chain DApp is a blockchain-based decentralized application that provi
 ![Supply Chain DApp Screenshot 2](screenshots/screenshot2.png)
 
 
-You can explore a live demo of the Supply Chain DApp [here](https://supplychaindapp.example.com).
+You can explore a live demo of the Supply Chain DApp [here](https://blockchaincyberpunk1.github.io/coffee-track-frontend/).
 
 
 ## Features
